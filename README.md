@@ -1,1 +1,1 @@
-git@github.com:Tolpil/ono-tebe-nado-fd.git
+https://github.com/Tolpil/ono-tebe-nado-fd/tree/mains
