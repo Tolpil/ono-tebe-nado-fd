@@ -70,8 +70,7 @@
   height: 22.00001335144043;
   top: 133px;
   left: 130px;
-  text-decoration: underline;
-}
+  }
 
 .header__link--about::before {
   content: "";
