@@ -37,10 +37,7 @@ img {
 
 button {
   font: inherit;
-  border-radius: 5px;
-  text-transform: uppercase;
-  text-align: center;
-  color: #fff;
-  position: relative;
-  background-color: transparent;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: transparent;
 }
