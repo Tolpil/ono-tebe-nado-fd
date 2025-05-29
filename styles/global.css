@@ -9,7 +9,7 @@ body {
   height: 293px;
   margin: 0 auto;
   font-family: Raleway, sans-serif;
-  background-color: #000;
+  /*background-color: #000;*/
 }
 
 h1,
@@ -37,7 +37,7 @@ img {
 
 button {
   font: inherit;
-    text-transform: uppercase;
-    color: #fff;
-    background-color: transparent;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: transparent;
 }
