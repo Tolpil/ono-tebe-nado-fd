@@ -121,12 +121,6 @@
   z-index: 1;
 }
 
-.cover__image {
-  height: 757px;
-  position: absolute;
-  object-fit: cover;
-}
-
 .bet-button {
   border: 1px solid #fff;
   width: 256px;
@@ -254,7 +248,7 @@
   padding-bottom: 13px;
 }
 
-.about__text-first {
+.about__text-introduction {
   font-family: "Raleway", Arial, sans-serif;
   font-weight: 400;
   font-size: 20px;
@@ -264,7 +258,7 @@
   padding-bottom: 24px;
 }
 
-.about__text-second {
+.about__text-significance {
   font-family: "Raleway", Arial, sans-serif;
   font-weight: 400;
   font-size: 20px;
